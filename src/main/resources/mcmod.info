@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sleeptight",
+  "name": "Sleep Tight",
+  "description": "Removes the annoying bed from Hypixel queues.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DxOG"],
+  "credits": "DxOG.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
