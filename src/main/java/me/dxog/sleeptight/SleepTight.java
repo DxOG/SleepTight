@@ -1,5 +1,4 @@
-package main.java.me.dxog.sleeptight;
-
+package me.dxog.sleeptight;
 
 import me.dxog.sleeptight.handler.MouseInputHandler;
 import net.minecraftforge.common.MinecraftForge;
