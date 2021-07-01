@@ -10,7 +10,7 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.gameevent.InputEvent.MouseInputEvent;
 import org.lwjgl.input.Mouse;
 
-public class ItemInteractionHandler {
+public class MouseInputHandler {
     @SubscribeEvent
     public void onMouseInput(MouseInputEvent e) {
         if (Mouse.getEventButtonState()) {
